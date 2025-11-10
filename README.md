@@ -10,4 +10,4 @@
 ![Bar Chart](plot_bar.png)
 
 ### ✅ My Custom Image
-![My Custom Image](plot_custom.png)
+![My Custom Image](my_plot.jpg)
